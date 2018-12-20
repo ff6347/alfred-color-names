@@ -3,6 +3,12 @@
 CMD: Copy the Names (default)
 ALT: Copy the HEX value
 
+## Downloads  
+
+Download the workflow here:
+
+- [v0.1.0](https://github.com/fabianmoronzirfas/alfred-color-names/releases/download/0.1.0/color-names-workflow-v0.1.0.zip)
+  
 ## License
 
 Copyright 2018 Fabian Morón Zirfas
