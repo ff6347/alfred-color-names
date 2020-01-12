@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "cz-conventional-changelog": "^2.1.0"
+    "cz-conventional-changelog": "2.1.0"
   },
   "config": {
     "commitizen": {
